@@ -57,6 +57,7 @@ input {
   border: 2px solid #d4b9b9;
   padding: 10px;
   border-radius: 4px;
+  background-color: white;
 }
 
 .trade-data h2 {
